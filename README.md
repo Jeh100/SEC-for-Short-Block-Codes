@@ -2,4 +2,4 @@
 
 This repository contains the implementation for our paper accepted at **GLOBECOM 2025**.
 
-🚧 Code will be released soon. Stay tuned!
+🚧 We will release the code after the paper is accepted. Stay tuned!
