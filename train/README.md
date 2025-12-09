@@ -1,0 +1,1 @@
+Based on the snli_train.ref dataset, noise was generated through different SNR channels to construct JSONL data pairs of "noisy text - clean text ". Then, bart-finetuning copy.ipynb was used to denoise/correct and fine-tune BART.
