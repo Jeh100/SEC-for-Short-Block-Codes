@@ -1,0 +1,10 @@
+numpy>=1.23
+tensorflow>=2.11
+torch>=2.0
+sionna>=0.15
+evaluate>=0.4
+sacrebleu>=2.0
+rouge-score>=0.1
+transformers>=4.30
+optimum[onnxruntime-gpu]>=1.13
+onnxruntime-gpu>=1.16
