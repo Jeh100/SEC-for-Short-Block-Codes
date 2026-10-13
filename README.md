@@ -10,10 +10,12 @@ Install all dependencies with:
 pip install -r requirements.txt
 ```
 
+Model weight: https://huggingface.co/jhao666/bart_sec
+
 ## Planned updates
 
 - [x] SEC (Semantic Error Correction)
-- [ ] Model weights
+- [x] Model weights
 - [ ] Semconf-HARQ
 
 We will release more methods that tightly integrate SEC with channel coding in this repository. Some of these works have been submitted or will be submitted to journals such as **IEEE Transactions on Wireless Communications (TWC)** and **IEEE Transactions on Communications (TCOM)**. Stay tuned!
